@@ -49,7 +49,7 @@ function Home() {
                 $SONMOO dives into the feline <br /> frenzy where every transaction <br /> is a cat-tastic adventure.
               </p>
               <Button variant="primary" href="https://t.me/MEXCEnglish" className="button-with-high-zindex">
-                Join Telegram
+                Join Twitter
               </Button>
               <div style={{ padding: 50, textAlign: "left" }}></div>
             </Col>
